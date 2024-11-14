@@ -3,15 +3,6 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://aristi.dev">GCRV</a> 👋</h1>
 </div>
-
-### Sobre mi
-
-- 🌐 Apasionado por la tecnologia 
-- 💻 Estudiante en Desarrollo de Software
-- ✏️ Autodidacta
-- 🥷 Interesado en Ethical Hacking
-- 🗣️ Español Nativo - Ingles Basico
-
 <br>
 
 ### Languages and Tools:
